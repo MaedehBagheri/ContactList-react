@@ -1,0 +1,21 @@
+.form-contact input{
+display: flex;
+margin-top: 0.3rem;
+}
+
+.form-contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    text-align: left;
+}
+
+.submit{
+    border: none;
+    padding: 0.4rem 1rem;
+    border-radius: 5px;
+    background-color: #1e293b;
+    color: #cbd5e1;
+}
